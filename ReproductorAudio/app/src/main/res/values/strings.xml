@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReproductorAudio</string>
+    <string name="btn_play">Audio con sopundpool</string>
+    <string name="btn_m">Audio con mediaplayer</string>
+</resources>
